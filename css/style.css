@@ -11,7 +11,7 @@
 .header {
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url("./images/banner.jpg");
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url("https://raw.githubusercontent.com/PraveenkumarMe/carwebsite/master/cars/banner.jpg");
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -194,7 +194,7 @@ hr {
     margin: 100px auto;
     width: 100%;
     height: 400px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./images/gtr.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://raw.githubusercontent.com/PraveenkumarMe/carwebsite/master/cars/gtr.jpg");
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -227,7 +227,7 @@ hr {
     margin: 100px auto;
     width: 100%;
     height: 400px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./images/road.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://raw.githubusercontent.com/PraveenkumarMe/carwebsite/master/cars/road.jpg");
     background-position: center;
     background-size: cover;
     text-align: center;

@@ -7,12 +7,12 @@
     "display":"standalone",
     "icons":[
         {
-          "src":"images/64.png",
+          "src":"images/car(1).png",
           "sizes":"64x64",
           "type":"image/png"
         },
         {
-            "src":"images/512.png",
+            "src":"images/car.png",
             "sizes":"512x512",
             "type":"image/png"
         }
